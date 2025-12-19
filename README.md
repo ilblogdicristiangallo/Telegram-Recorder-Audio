@@ -75,7 +75,7 @@ Storage Location
 From Termux, navigate to the script folder:
 <pre>cd ~/telegram-audio-recorder</pre>
 Run the script:
-<pre>python recorder.py</pre>
+<pre>python telegram-recorder-audio.py </pre>
 
 # 🔁 How It Works
 
