@@ -36,7 +36,8 @@ Open Termux and run:
 
 # Install required packages:
 <pre>pkg install python ffmpeg portaudio git -y</pre>
-
+<pre>termux-setup-storage</pre>
+Permission <pre>Yes</pre>
 # Install Python dependencies
 <pre>pip install pyaudio requests</pre>
 If pyaudio fails to install:
