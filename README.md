@@ -6,7 +6,7 @@ A Python script for recording audio on Android using Termux and automatically se
 This project is a Python script designed to **record audio from an Android device using Termux** and **automatically send the recordings to a Telegram chat** via a Telegram bot.
 The script continuously records short audio clips and uploads them to Telegram.
 
-## ⚠️ Legal Notice ⚠️L
+## ⚠️ Legal Notice ⚠️
 
 Recording audio without the consent of all parties may be illegal in your country.  
 This project is provided **for educational and personal use only**.  
