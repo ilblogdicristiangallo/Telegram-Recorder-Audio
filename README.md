@@ -47,18 +47,12 @@ Hash APK ULTIMATE VERSION:
 
 # ⚠️ Attention: The APK file is safe. No viruses or trojans.
 
-# Update Termux
-Open Termux and run:
-<pre>pkg update && pkg upgrade</pre>
-
-# Install required packages:
-<pre>pkg install python ffmpeg portaudio git -y</pre>
-<pre>termux-setup-storage</pre>
-Permission <pre>Yes</pre>
-# Install Python dependencies
-<pre>pip install pyaudio requests</pre>
-If pyaudio fails to install:
-<pre>pip install --no-binary :all: pyaudio</pre>
+# Install 
+<pre>pkg update -y
+pkg install python ffmpeg termux-api git -y
+pip install pyaudio requests python-telegram-bot
+termux-setup-storage</pre>
+Permision Yes
 
 # Telegram Bot Setup
 Create a Telegram bot
