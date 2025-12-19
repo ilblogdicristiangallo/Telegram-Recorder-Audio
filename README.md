@@ -24,8 +24,9 @@ You are fully responsible for how you use it.
 
 ### Install Termux
 Download Termux from my Gdrive:<br>
-https://drive.google.com/file/d/1Yzu1tpzvVSmfOvMsWI_7uttajqTySS-z/view?usp=drive_link
-HASH APK: 425774a72c9e01dfad428b671c26e0c51da84316a9275a50e1071d827e0903a9
+https://drive.google.com/file/d/1Yzu1tpzvVSmfOvMsWI_7uttajqTySS-z/view?usp=drive_link<br>
+HASH APK: <br>
+425774a72c9e01dfad428b671c26e0c51da84316a9275a50e1071d827e0903a9
  
 # ⚠️ Attention: The APK file is safe. No viruses or trojans.
 
