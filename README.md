@@ -15,7 +15,7 @@ You are fully responsible for how you use it.
 ## Requirements
 
 - Android smartphone
-- Termux (latest version)
+- Termux (My version Google Drive)
 - Telegram account
 - Telegram Bot Token
 - Internet connection
