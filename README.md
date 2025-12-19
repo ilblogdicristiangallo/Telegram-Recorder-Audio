@@ -23,7 +23,8 @@ You are fully responsible for how you use it.
 ## Termux Setup
 
 ### Install Termux
-Download Termux from my repository
+Download Termux from my Gdrive:
+<pre>https://drive.google.com/file/d/1Yzu1tpzvVSmfOvMsWI_7uttajqTySS-z/view?usp=drive_link</pre>
 
 # Update Termux
 Open Termux and run:
