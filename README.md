@@ -12,10 +12,21 @@ Recording audio without the consent of all parties may be illegal in your countr
 This project is provided **for educational and personal use only**.  
 You are fully responsible for how you use it.
 
-## Requirements
-✔️ Xiaomi / Redmi (MIUI / HyperOS) 
-✔️ Poco ✔️ Huawei / Honor (EMUI vecchie) ✔️ 
-Android ≤12 ✔️ ROM custom (LineageOS,crDroid)
+# Compatible Devices (reliable Termux audio recording)
+Google / Pixel series (Pixel 3, 4, 5, 6, 7, 8) → Stock Android, no restrictions.
+Xiaomi (some models up to MIUI 13 / Android 12-13):
+Mi 11 LTE / 5G
+Poco F3, Poco X3 (with stable MIUI or near-stock Android)
+Motorola (Android 12-13):
+Moto G82, Moto G84
+OnePlus / Oppo / Realme with Android 12 or almost stock ROM (no AAudio/OpenSL restrictions)
+Not Compatible / Known Issues
+Realme C55, C53, and most recent Realme devices with Android 14/15 → microphone blocked in Termux
+Recent Xiaomi with MIUI 15 / Android 14+ → Termux audio API blocked
+Vivo, recent Samsung Galaxy with Android 14+ → microphone often not accessible in Termux
+Any heavily customized manufacturer ROM → high chance of Termux audio failure
+
+# Requirements 
 - Termux (My version Google Drive)
 - Telegram account
 - Telegram Bot Token
