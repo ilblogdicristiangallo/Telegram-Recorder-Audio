@@ -29,7 +29,8 @@ https://drive.google.com/file/d/1Yzu1tpzvVSmfOvMsWI_7uttajqTySS-z/view?usp=drive
 HASH APK: <br>
 <pre>425774a72c9e01dfad428b671c26e0c51da84316a9275a50e1071d827e0903a9</pre>
 Ultimate Version Termux:
-<pre>https://drive.google.com/file/d/1Sze8Q3OxgKQZqXyT_QjcwskVtSqt4j1H/view?usp=drivesdk</pre>
+https://drive.google.com/file/d/1Sze8Q3OxgKQZqXyT_QjcwskVtSqt4j1H/view?usp=drivesdk
+
 Hash APK ULTIMATE VERSION:
 <pre>c573fe490edcad0cecdf2275f783531df92bcd51040c259c25dad61ff75370af</pre>
 
