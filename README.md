@@ -35,6 +35,9 @@ Install FFmpeg for audio conversion:
 <pre>pkg install ffmpeg </pre>
 For this script, conversion is optional because it sends M4A directly.
 
+# Installation:
+<pre>git clone https://github.com/ilblogdicristiangallo/Telegram-Recorder-Audio.git && cd Telegram-Recorder-Audio</pre>
+
 # Create directory:
 <pre>mkdir -p /storage/emulated/0/MyAudio</pre>
 
