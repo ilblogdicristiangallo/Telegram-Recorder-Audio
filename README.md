@@ -1,4 +1,4 @@
-# Telegram-Recorder-Audio
+# Telegram-Recorder-Audio version Beta
 A Python script for recording audio on Android using Termux and automatically sending the recordings to a Telegram chat via a bot.
 
 # Telegram Audio Recorder for Termux
